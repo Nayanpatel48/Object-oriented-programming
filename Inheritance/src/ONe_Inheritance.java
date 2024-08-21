@@ -25,7 +25,7 @@
 //5->You can create subclass constructor which invokes the superclass constructor
 //either implicitly or using super keyword
 
-public class Inheritance {
+public class ONe_Inheritance {
     public static void main(String[] args) {
 
     }

@@ -2,7 +2,6 @@
  always to investigative study because it is best
  NOTE:the class properties must be declared and initialized before they are used
 */
-
 public class One_AccessModifiers {
     public static void main(String[] args) {
         //--------------------------creating objects/instances of classes--------------------

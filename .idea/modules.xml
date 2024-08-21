@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basics/Basics.iml" filepath="$PROJECT_DIR$/Basics/Basics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Inheritance/Inheritance.iml" filepath="$PROJECT_DIR$/Inheritance/Inheritance.iml" />
       <module fileurl="file://$PROJECT_DIR$/Numbers/Numbers&amp;Strings.iml" filepath="$PROJECT_DIR$/Numbers/Numbers&amp;Strings.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Object-oriented-programming.iml" filepath="$PROJECT_DIR$/.idea/Object-oriented-programming.iml" />
       <module fileurl="file://$PROJECT_DIR$/Objects-and-classes/Objects-and-classes.iml" filepath="$PROJECT_DIR$/Objects-and-classes/Objects-and-classes.iml" />

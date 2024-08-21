@@ -20,7 +20,7 @@ public class Two_castingObjects {
 //        the compiler can safely assume that obj is a MountainBike. If obj is not a
 //        MountainBike at runtime, an exception will be thrown.
 //
-//        Note: You can make a logical test as to the type of a particular object using
+//        Note: You can make a logical test as to the typeof a particular object using
 //        the instanceof operator. This can save you from a runtime error owing to an improper cast.
     }
 }

@@ -9,6 +9,7 @@ public static void main(String[] args) {
     String[] names = {"Nayan", "Harshil", "Akhil"};
     for (var n : names)
         System.out.print(n + " ");
+    	System.out.println("Hello");
     //Nayan Harshil Akhil
     //in above code we used var to make our code more easy to read
 }

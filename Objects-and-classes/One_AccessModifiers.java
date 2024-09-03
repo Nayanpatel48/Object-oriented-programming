@@ -33,7 +33,7 @@ public class One_AccessModifiers {
 class MyClass
 {
     //----------------------------final keyword usage-------------------------
-    private static final int classMaxCapacity = 99;
+    //private static final int classMaxCapacity = 99;
     //final value can not be changed
 
     private int totalStd;

@@ -1,4 +1,4 @@
-//always do investigative study because it is best
+/*always do investigative study because it is best*/
 
 //----------------------------static methods-----------------------------------
 //If a subclass defines a static method with the same signature as a static method
